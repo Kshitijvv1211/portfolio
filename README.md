@@ -6,8 +6,6 @@ Welcome to the repository for my personal portfolio website! 🎉 This project i
 
 https://github.com/kshitijvasule/3D-interactive-portfolio/blob/main/preview_video.mp4
 
-This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
-
 ## 🔥 Features
 
 Here are the key highlights of my portfolio:
@@ -79,7 +77,7 @@ The portfolio website is built using the following tools and technologies:
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.kshitijvasule.com/).
+This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.kshitijvasule.com/) yet to add link.
 
 ### Setting up Resend API on Vercel
 
@@ -92,10 +90,6 @@ This project is deployed using **Vercel** for its blazing-fast performance and e
 5. Save the changes and redeploy your application
 
 Note: Make sure to keep your API key secret and never commit it to your repository.
-
-## 💖 Acknowledgments
-
-A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
 
 ## 📬 Contact
 
