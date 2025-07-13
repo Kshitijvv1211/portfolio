@@ -2,10 +2,6 @@
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-### Live preview: https://www.kshitijvasule.com/
-
-https://github.com/kshitijvasule/3D-interactive-portfolio/blob/main/preview_video.mp4
-
 ## 🔥 Features
 
 Here are the key highlights of my portfolio:
