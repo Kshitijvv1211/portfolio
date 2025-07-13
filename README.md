@@ -91,8 +91,8 @@ Note: Make sure to keep your API key secret and never commit it to your reposito
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
-- **Email:** kshitij.vasule@email.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kshitijvasule/)
+- **Email:** kshitijvasule@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kshitij-vasule-36a19a294/)
 
 ---
 
